@@ -40,8 +40,8 @@ const Projects = () => {
       ],
       icon: Timer,
       gradient: "from-green-500 to-emerald-500",
-      liveDemo: "https://your-quiz-app-link.com",
-      github: "https://github.com/Sumitchauhan0/react-quiz-app",
+      liveDemo: "https://quizforge-1.netlify.app",
+      github: "https://github.com/Sumitchauhan0/Portfolio",
     },
     {
       title: "Cryptocurrency Tracker",

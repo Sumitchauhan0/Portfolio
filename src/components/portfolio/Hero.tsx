@@ -16,7 +16,7 @@ const Hero = () => {
             Sumit Chauhan
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-2xl mx-auto">
-            Front-End Developer & CS Student passionate about creating amazing user experiences
+            Aspiring Software Engineer | Turning Ideas into Interactive Designs
           </p>
           
           {/* Contact Info */}
@@ -71,9 +71,7 @@ const Hero = () => {
             </div>
 
           
-          <Button size="lg" className="bg-white text-primary hover:bg-white/90 text-lg px-8 py-3">
-            View My Work
-          </Button>
+      
         </div>
       </div>
     </section>
